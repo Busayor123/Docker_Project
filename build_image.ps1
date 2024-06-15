@@ -1,13 +1,3 @@
-# Run the docker build command
-docker build `
---build-arg PERSONAL_ACCESS_TOKEN= `
---build-arg GITHUB_USERNAME= `
---build-arg REPOSITORY_NAME= `
---build-arg WEB_FILE_ZIP= `
---build-arg WEB_FILE_UNZIP= `
---build-arg DOMAIN_NAME= `
---build-arg RDS_ENDPOINT= `
---build-arg RDS_DB_NAME= `
---build-arg RDS_MASTER_USERNAME= `
---build-arg RDS_DB_PASSWORD= `
--t <image-tag> .
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c2277fe19dd3102fc2aa9ef51eab8a661493a1079405d5835950479a4136060
+size 488
