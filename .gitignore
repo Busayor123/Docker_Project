@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d54c704729e7ed6818894676f0f277df318c31136aacd7b1672610312727385
-size 32
+Dockerfile reference
+build_image.ps1
